@@ -6,5 +6,10 @@ The "host_pathogen_interaction_codes.tar.gz" contains all necessary datasets, th
 
 Users should first untar the file, e.g. using
 
+```
 tar -xzvf host_pathogen_interaction_codes.tar.gz
+```
 
+The above command will create `codes` directory where all the data will be located. Subsequently, users can open the `R` scripts in `Rstudio` and run them. The version for all used software and packages can be found in `sesssionInfo.txt` file.
+
+For any questions, please email to `grant.hovhannisyan@gmail.com`.
