@@ -1,4 +1,4 @@
-# Host-pathogen_interactions
+# Host-pathogen interactions between human and major Candida pathogens
 
 The repository contains the data and R codes to fully reproduce the results and datasets of the study of host-pathogen interaction between human epitheliail cell line A431 and 4 major Candida pathogens C. albicans, C. glabrata, C. parapsilosis and C. tropicalis.
 
