@@ -13,4 +13,4 @@ tar -xzvf host_pathogen_interaction_codes.tar.gz
 The above command will create `codes` directory where all the data will be located. We encourage the users to first read through the `file_description.txt` file, which describes all files in the created directory. Subsequently, users can open the `R` scripts in `Rstudio` and run them (on a modern desktop each script will required ~5-6 min to complete). The version for all used software and packages can be found in `sesssionInfo.txt` file. All codes and required packages are open source. For full reproducibility, please make sure the software versions run on your machines coincide with versions in `sesssionInfo.txt`.
 
 
-For any questions, please email to `grant.hovhannisyan@gmail.com`.
+For any questions, please email `grant.hovhannisyan@gmail.com`.
