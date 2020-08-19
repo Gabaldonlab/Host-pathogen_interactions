@@ -10,7 +10,7 @@ Users should first untar the file, e.g. using
 tar -xzvf host_pathogen_interaction_codes.tar.gz
 ```
 
-The above command will create `codes` directory where all the data will be located. We encourage the users to first read through the `file_description.txt` file, which describes all files in the created directory. Subsequently, users can open the `R` scripts in `Rstudio` and run them (on a modern desktop each script will required ~5-6 min to complete). The version for all used software and packages can be found in `sesssionInfo.txt` file. All codes and required packages are open source. For full reproducibility, please make sure the software versions run on your machines coincide with versions in `sesssionInfo.txt`.
+The above command will create `codes` directory where all the data will be located. We encourage the users to first read through the `file_description.txt` file, which describes all files in the created directory. Subsequently, users can open the `R` scripts in `Rstudio` and run them. On a modern desktop each script will require ~10-15 min to complete. Of note, the most comutationally intensive and the longest step (the whole analysis, including GO enrichment of modules, might take ~2-3 hours) is the network analysis, which requires ~15Gb of RAM, and it speed will depend on the number of available cores. The version for all used software and packages can be found in `sesssionInfo.txt` file. All codes and required packages are open source. For full reproducibility, please make sure the software versions run on your machines coincide with versions in `sesssionInfo.txt`.
 
 
 For any questions, please email `grant.hovhannisyan@gmail.com`.
